@@ -1,6 +1,6 @@
 ### What's up
-- I’m currently learning C++ and Rust, and ~~writing~~ trying to write an OS with x86 asm + C.
-- Amateur artist and developer
+- I’m currently trying to write an operating system with x86 asm + C.
+- Amateur artist
 - Somewhat great of a video editor
 - You can reach me by sending me an e-mail
 
